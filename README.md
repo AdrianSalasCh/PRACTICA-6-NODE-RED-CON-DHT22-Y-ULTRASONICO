@@ -219,6 +219,11 @@ localhost:1880
 ```
 
 5. Instalar Dashboard abriendo la pestaña de opciones y elegimos *Manage palette*.
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-MANAGE%20PALETTE.PNG)
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-DASHBOARD.PNG)
+
 6. Seleccionamos *Install* y buscamos *node-red-dashboard*.
 
 ## INSTRUCCIONES PARA LA COLOCACION DE BLOQUES Y LA CONEXION DE NODOS CORRESPONDIENTES EN Node-RED
