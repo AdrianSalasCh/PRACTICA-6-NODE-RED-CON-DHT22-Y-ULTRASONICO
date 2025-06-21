@@ -30,7 +30,7 @@ Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https:
 
 ### Instrucciones de preparación de entorno
 
-1. Abrir la terminal de programación y colocar la siguente programación:
+1. Abrir la terminal de programación y colocar el siguiente código:
 
 ```
 #include <ArduinoJson.h>
