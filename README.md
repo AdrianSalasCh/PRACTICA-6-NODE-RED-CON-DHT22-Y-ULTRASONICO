@@ -184,13 +184,13 @@ void loop() {
 }
 ```
 
-2. Para garantizar el correcto funcionamiento de los sensores y la comunicación con la placa ESP32, es necesario instalar previamente las bibliotecas correspondientes en el entorno de desarrollo. Las librerías requeridas se indican en la siguiente imagen y deben ser integradas antes de cargar el programa al microcontrolador.
+2. Para garantizar el correcto funcionamiento de los sensores y la comunicación con la placa ESP32, es necesario instalar previamente las bibliotecas correspondientes. Las librerías requeridas se indican en la siguiente imagen:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-LIBRERIAS.PNG)
 
 La conexión del sensor ultrasónico HC-SR04 y del sensor de temperatura y humedad DHT11 con la placa ESP32 se realiza conforme al esquema mostrado en la siguiente imagen.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-CONEXION%20WOKWI.PNG)
 
 ## INSTRUCCIONES PARA LA INSTALACIÓN DE Node-RED
 
@@ -210,7 +210,7 @@ npm install -g --unsafe-perm node-red
 node-red
 ```
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/NODE-RED%20P6-1.PNG)
 
 4. Para abrir la aplicación nos vamos algun explorador y colocamos el siguente link:
 
@@ -225,27 +225,33 @@ localhost:1880
 
 1. Colocar y conectar los bloques de la siguiente manera:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/CONEXION%20NOD-RED%20P6.PNG)
 
 2. Con doible click, configurar los bloques de la siguiente manera:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/CONEXION%20TERMINADA%20NOD-RED%20P6.PNG)
 
 3. Realizar la configuración del bloque **mqtt** de acuerdo a la siguiente imágen:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-MQTT-1.PNG)
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-MQTT-2.PNG)
 
 4. Realizar la configuración del bloque **json** de acuerdo a la siguiente imágen:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-JSON.PNG)
 
 6. Realizar la configuración de los bloques de **funciones** de acuerdo a la siguiente imágen:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-FUNCIONT.PNG)
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-FUNCIONH.PNG)
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-FUNCIOND.PNG)
 
 7. Antes de configurar las gráficas, es necesario crear un nuevo *tab* desde el dashboard previamente instalado, en dicho *tab* se crearán los siguientes 2 *groups*.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-TAB.PNG)
 
 8. Para los *gauge nodes*, realizar la siguiente configuración:
 
