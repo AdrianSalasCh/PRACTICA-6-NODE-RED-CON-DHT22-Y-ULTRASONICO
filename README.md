@@ -280,7 +280,7 @@ localhost:1880
 
 ![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GRAFICAS-1.PNG)
 
-12. Al modifica los datos optenidos por los sensores, se modificarán automaticamente los gráficos en Node-RED.
+12. Al modifica los datos obtenidos por los sensores, se modificarán automaticamente los gráficos en Node-RED.
 
 ![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GRAFICAS-WOKWI-2.PNG)
 
