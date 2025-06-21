@@ -255,27 +255,31 @@ localhost:1880
 
 8. Para los *gauge nodes*, realizar la siguiente configuración:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GAUGET.PNG)
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GAUGEH.PNG)
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GAUGED.PNG)
 
 9. Configurar el *chart node* de la siguiente manera:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-CHART.PNG)
 
 10. Seleccionar *Deploy* dar click en el siguiente simbolo:
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-DEPLOY.PNG)
 
 11. Se abrirá una ventana y podrás obserbar los datos arrojados por el ESP32.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GRAFICAS-WOKWI-1.PNG)
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GRAFICAS-1.PNG)
 
 12. Al modifica los datos optenidos por los sensores, se modificarán automaticamente los gráficos en Node-RED.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GRAFICAS-WOKWI-2.PNG)
+
+![](https://github.com/AdrianSalasCh/PRACTICA-6-NODE-RED-CON-DHT22-Y-ULTRASONICO/blob/main/P6-GRAFICAS-2.PNG)
 
 ## CRÉDITOS
 
